@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Oblique Decision Tree and its Boosting and Random Forest
 This project is the replication script for "Consistency of Oblique Decision Tree and its Boosting and Random Forest," submitted for consideration for publication in **Bernoulli**. The replication script includes the exact code used to reproduce the calculations presented in the manuscript. The methods proposed in our paper are ODT, ODRF, and ODBT, which are implemented using our R package **ODRF**. For detailed usage, please refer to https://github.com/liuyu-star/ODRF.
 
@@ -23,7 +22,3 @@ You can access the datasets used in the manuscript by downloading the **`Dataset
 ## Attention
 
 Before running the manuscript's replication scripts, confirm that all required R packages are installed and that the **`Datasets`** folder is placed in the R workspace (`getwd()`).
-=======
-# ODBT
- Replication script for "Consistency of Oblique Decision Tree and its Boosting and Random Forest" Submitted to Bernoulli
->>>>>>> parent of 5f1a04a (submitted to Bernoulli)
